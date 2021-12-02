@@ -1,6 +1,4 @@
-Project contains a test, that will test basic functionality of RegioJet system.
-
-It does search for a direct connection between Ostrava and Brno using https://shop.regiojet.sk/ domain,
+Project does search for a direct connection between Ostrava and Brno using https://shop.regiojet.sk/ domain,
 departing on Monday and get additional information such as:
 a) departure time b) arrival time c) number of stops d) the price of the journey.
 
